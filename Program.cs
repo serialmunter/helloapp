@@ -3,7 +3,7 @@ hello();
 
 static void hello()
 {
-    Console.WriteLine("hello");
+    Console.WriteLine("hello everyone");
 }
 
 static void greetWhite()
