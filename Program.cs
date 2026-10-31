@@ -1,5 +1,7 @@
 ﻿using System;
 hello();
+greetWhite();
+greetBlack();
 
 static void hello()
 {
